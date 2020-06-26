@@ -16,7 +16,7 @@ def main():
     # # Loading azure credentials
     # print("::debug::Loading azure credentials")
 
-    input_payload = os.environ.get("INPUT_PAYLOAD", default='{}')
+    input_payload = os.environ.get("INPUT_PAYLOAD_DATA", default='{}')
     # check if aml folder exists
     # if not create it 
     # inside aml folder create modeltrackingdata.json
