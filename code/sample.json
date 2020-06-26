@@ -1,0 +1,13 @@
+{
+    "models":[
+        {"modelName": "aml_infra-master",
+            "modelProperties": {},
+            "modelTags": {
+                "githuB_ACTOR": "ashishonce",
+                "githuB_REF": "refs/heads/master",
+                "githuB_REPOSITORY": "mlopstemplates/aml_infra",
+                "githuB_SHA": "1da42622f028e5703597398664ece2cebcab8258"
+            },
+            "modelVersion": "2"}
+    ]
+}
